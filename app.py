@@ -32,7 +32,7 @@ def analyze_sentiment(texts):
 # Streamlit UI
 #Menampilkan judul dan subjudul di halaman web.
 #Streamlit (st.title() dan st.subheader()) digunakan untuk membuat tampilan lebih menarik.
-st.title("Analisis Sentimen Teks ")
+st.title("Analisis Sentimen Teks Twitter")
 st.subheader("Masukkan beberapa teks (pisahkan dengan baris baru/enter) untuk menganalisis sentimennya.")
 
 # Input banyak kalimat
